@@ -1,0 +1,10 @@
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.csproj.AssemblyReference.cache
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.Form1.resources
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.Properties.Resources.resources
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.csproj.GenerateResource.cache
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.csproj.CoreCompileInputs.cache
+C:\Users\mossbee\source\repos\Painful\Painful\bin\Debug\Painful.exe.config
+C:\Users\mossbee\source\repos\Painful\Painful\bin\Debug\Painful.exe
+C:\Users\mossbee\source\repos\Painful\Painful\bin\Debug\Painful.pdb
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.exe
+C:\Users\mossbee\source\repos\Painful\Painful\obj\Debug\Painful.pdb
